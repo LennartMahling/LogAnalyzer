@@ -1,0 +1,3 @@
+C:/Ordner/Programmieren/C++/CLion/LogAnalyzer/cmake-build-debug/CMakeFiles/LogAnalyzer.dir
+C:/Ordner/Programmieren/C++/CLion/LogAnalyzer/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Ordner/Programmieren/C++/CLion/LogAnalyzer/cmake-build-debug/CMakeFiles/rebuild_cache.dir

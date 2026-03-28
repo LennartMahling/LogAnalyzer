@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Ordner/Programmieren/C++/CLion/LogAnalyzer/cmake-build-debug",
+  "command": "C:\\Users\\lenna\\AppData\\Local\\Programs\\CLion\\bin\\mingw\\bin\\g++.exe -g -std=gnu++23 -fdiagnostics-color=always -o CMakeFiles\\LogAnalyzer.dir\\main.cpp.obj -c C:\\Ordner\\Programmieren\\C++\\CLion\\LogAnalyzer\\main.cpp",
+  "file": "C:/Ordner/Programmieren/C++/CLion/LogAnalyzer/main.cpp",
+  "output": "C:/Ordner/Programmieren/C++/CLion/LogAnalyzer/cmake-build-debug/CMakeFiles/LogAnalyzer.dir/main.cpp.obj"
+}
+]
